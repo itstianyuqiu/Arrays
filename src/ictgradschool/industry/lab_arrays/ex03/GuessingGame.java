@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab04.ex03;
+package ictgradschool.industry.lab_arrays.ex03;
 
 /**
  * A guessing game!

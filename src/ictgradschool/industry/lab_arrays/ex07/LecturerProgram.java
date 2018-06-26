@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab04.ex07;
+package ictgradschool.industry.lab_arrays.ex07;
 
 public class LecturerProgram {
 

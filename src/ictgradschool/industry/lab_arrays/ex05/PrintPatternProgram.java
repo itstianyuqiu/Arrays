@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab04.ex05;
+package ictgradschool.industry.lab_arrays.ex05;
 
 public class PrintPatternProgram {
 

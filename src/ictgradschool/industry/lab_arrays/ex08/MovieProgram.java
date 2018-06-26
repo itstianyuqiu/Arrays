@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab04.ex08;
+package ictgradschool.industry.lab_arrays.ex08;
 
 public class MovieProgram {
     public void start() {

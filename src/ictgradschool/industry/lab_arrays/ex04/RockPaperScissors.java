@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab04.ex04;
+package ictgradschool.industry.lab_arrays.ex04;
 
 /**
  A game of Rock, Paper Scissors

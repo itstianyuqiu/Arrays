@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab04.ex06;
+package ictgradschool.industry.lab_arrays.ex06;
 
 public class DisplayMobilePrices {
 
